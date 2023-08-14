@@ -148,3 +148,6 @@ A classe `BookRepository` é responsável por realizar operações CRUD em livro
 ### Tratamento de Erros:
 
 O código possui tratamento de erros robusto, retornando respostas apropriadas em caso de falhas, como erros de validação, erros internos do servidor e outros.
+
+## Autor
+Emerson Amorim
